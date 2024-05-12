@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Webpack](https://img.shields.io/badge/-Webpack-green) ![React.js](https://img.shields.io/badge/-React.js-black)
+![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Webpack](https://img.shields.io/badge/-Webpack-green) ![React.js](https://img.shields.io/badge/-React.js-black)
 
 </div>
 
